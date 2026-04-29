@@ -1,0 +1,19 @@
+# Raw data files (too large for GitHub)
+data/raw/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Zone identifier files (Windows/WSL artefact)
+*.Zone.Identifier
+
+# Large model files
+models/*.pkl
