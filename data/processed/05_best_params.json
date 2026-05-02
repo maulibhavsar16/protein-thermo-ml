@@ -1,0 +1,9 @@
+{
+  "best_params": {
+    "model__max_depth": "None",
+    "model__max_features": "log2",
+    "model__min_samples_split": "2",
+    "model__n_estimators": "300"
+  },
+  "best_cv_auroc": 0.9788
+}
